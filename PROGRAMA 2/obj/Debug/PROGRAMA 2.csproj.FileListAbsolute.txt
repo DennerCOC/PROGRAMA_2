@@ -1,0 +1,27 @@
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.exe.config
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.exe
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.pdb
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Pomodori.resources
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Properties.Resources.resources
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.csproj.GenerateResource.Cache
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.exe
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.pdb
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Inicial.resources
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Contagem.resources
+E:\executaveis liberados\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Tempo.resources
+D:\C#\AV2\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.exe.config
+D:\C#\AV2\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.exe
+D:\C#\AV2\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.pdb
+E:\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.exe.config
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.exe
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.pdb
+E:\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.exe
+E:\PROGRAMA 2\PROGRAMA 2\bin\Debug\PROGRAMA 2.pdb
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.csprojResolveAssemblyReference.cache
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Contagem.resources
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Inicial.resources
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Pomodori.resources
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Properties.Resources.resources
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA_2.Tempo.resources
+E:\PROGRAMA 2\PROGRAMA 2\obj\Debug\PROGRAMA 2.csproj.GenerateResource.Cache
